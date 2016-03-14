@@ -1,0 +1,28 @@
+name: Guernsey FinTech
+favicon: null
+layout_spectrum: 0.0038200414273887873
+typography_spectrum: 0.8482675950508565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2478671499993652
+  lightness: 0.21713617211207747
+  saturation: 0.9684036010876298
+  rhythmicContrast: 0.29456657893024385
+purpose: []
