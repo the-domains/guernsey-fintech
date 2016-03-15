@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Guernsey FinTech]]></title>
         <description><![CDATA[Guernsey FinTech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guernsey-fintech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 09:32:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 09:32:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guernsey-fintech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft back peddles on dropping Bitcoin ]]></title>
+            <description><![CDATA[<article><h1>Microsoft back peddles on dropping Bitcoin </h1><p>Bitcoin was almost dealt a major blow today when it seemed Microsoft would stop accepting the cryptocurrency for digital purchases through customer accounts. But the company now says an update to a support page was posted erroneously and contained "inaccurate" information. Bitcoin, Microsoft says, will still be honored.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fd65cdbdc9a81d3814ec925037036b16fe4acbd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/guernsey-fintech/microsoft-back-peddles-on-dropping-bitcoin/index.html</link>
+            <guid isPermaLink="false">24a882d1-2f0f-4605-b891-ea2e0628ff81</guid>
+            <pubDate>Tue, 15 Mar 2016 09:32:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain for the underbanked ]]></title>
             <description><![CDATA[<article><h1>Blockchain for the underbanked </h1><p>As 2015 came to a close and the new year began, many thought leaders in the financial technology space made their predictions on the trends and innovations that will get us excited in 2016. One of the most prominent technologies that repeatedly appeared on these lists was the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e3e40dfb9228a3f4bf463843d160b6203ba7d13.jpg"></article>]]></description>
